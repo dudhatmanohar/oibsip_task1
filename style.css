@@ -1,1 +1,61 @@
 
+#main{
+    max-width: 128009px;
+    max: height 102px;;
+    margin: 30px auto;
+    padding: 15px;
+    background-color:white;
+    border-radius: 5px;
+}
+#title{
+    text-align: center;
+}
+#main >p{
+    text-align: center;
+}
+#img-div{
+    max-width: 6000px;
+    margin: auto;
+    padding: 15px;
+    background-color: #ffffff;
+
+}
+#image{
+    display: block;
+    max-width: 100%;
+    padding-bottom: 10px;
+    size: 60px;
+}
+#tribute-info{
+    max-width: 600px;
+    margin: 0 auto;
+}
+#tribute-info > h3{
+    text-align: center;
+}
+#tribute-info >ul li{
+    margin-bottom: 10px;
+    line-height: 30px;
+}
+h4{
+    text-align: center;
+}
+h5{
+    text-align: center;
+}
+#image-m{
+    max-width: 6px;
+    max-height: 2px;
+    margin:  auto;
+    padding: 15px;
+    background-color:;
+
+
+}
+#image{
+    display: block;
+    max-width: 100%;
+    padding-bottom: 10px;
+    
+    
+}
